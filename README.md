@@ -2,5 +2,4 @@
 
 ### Desafios
 
-- API de Contracheque
-  - [API de Contracheque](https://github.com/stone-payments/credit-tech-challenges/API-de-Contracheque/README.md).
+- [API de Contracheque](https://github.com/stone-payments/credit-tech-challenges/API-de-Contracheque/README.md)
