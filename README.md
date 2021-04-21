@@ -14,7 +14,7 @@
 
 ## Objetivo desse repositório
 
-    Centralizar o armazenamento de desafios técnicos propostos para os candidatos aos processos seletivos técnicos do time, sejam desenvolvedores, DBAs SREs etc.
+Centralizar o armazenamento de desafios técnicos propostos para os candidatos aos processos seletivos técnicos do time, sejam desenvolvedores, DBAs SREs etc.
 
 
 ## Desafios
