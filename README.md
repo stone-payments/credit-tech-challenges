@@ -18,7 +18,7 @@ Centralizar o armazenamento de desafios técnicos propostos para os candidatos a
 
 
 ## Desafios
-- [Aplicacao de Console - Carteira de Investimentos](https://github.com/stone-payments/credit-tech-challenges/blob/Add/Challenge-API-de-contracheques/API-de-Contracheque/DESCRIPTION.md)
+- [Aplicacao de Console - Carteira de Investimentos](https://github.com/stone-payments/credit-tech-challenges/blob/Add/ChallengeAplicacaoConsoleCarteiraInvestimentos/Aplicacao-de-Console-de-Carteira-de-Investimentos/DESCRIPTION.md)
 - [API de Contracheque](https://github.com/stone-payments/credit-tech-challenges/API-de-Contracheque/README.md)
   
 ## Contatos
