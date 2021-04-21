@@ -14,12 +14,12 @@
 
 ## Objetivo desse repositório
 
-    Centralizar o armazenamento de desafios técnicos propostos para os candidatos aos processos seletivos técnicos do time, sejam desenvolvedores, DBAs SREs etc.
+Centralizar o armazenamento de desafios técnicos propostos para os candidatos aos processos seletivos técnicos do time, sejam desenvolvedores, DBAs SREs etc.
 
 
 ## Desafios
-- [Aplicacao de Console - Carteira de Investimentos](https://github.com/stone-payments/credit-tech-challenges/Aplicacao-de-Console-de-Carteira-de-Investimentos/README.md)
-- [API de Contracheque](https://github.com/stone-payments/credit-tech-challenges/API-de-Contracheque/README.md)
+- [Aplicacao de Console - Carteira de Investimentos](https://github.com/stone-payments/credit-tech-challenges/blob/Add/ChallengeAplicacaoConsoleCarteiraInvestimentos/Aplicacao-de-Console-de-Carteira-de-Investimentos/DESCRIPTION.md)
+- [API de Contracheque](https://github.com/stone-payments/credit-tech-challenges/blob/Add/Challenge-API-de-contracheques/API-de-Contracheque/DESCRIPTION.md)
   
 ## Contatos
 - gabriel.souza@stone.com.br
