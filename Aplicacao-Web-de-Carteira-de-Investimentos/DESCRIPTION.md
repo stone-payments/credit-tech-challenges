@@ -20,7 +20,7 @@ Essa aplicação deverá suportar as operações descritas abaixo:
 
     O usuário informa os dados de entrada contendo o código do ativo que foi comprado (ex.: STNE, GOOG, PGRM), quantidade de ativos e o valor pago por cada unidade do ativo
 
-1. **Visualizar a lista de ativos investidos**
+2. **Visualizar a lista de ativos investidos**
 
     Semelhante a um extrato bancário, esse comando deverá exibir uma lista de ativos investidos, informando código, preço de cada unidade do ativo, valor total alocado no ativo e data de compra.
 
