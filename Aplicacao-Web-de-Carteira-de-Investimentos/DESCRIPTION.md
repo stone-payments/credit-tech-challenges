@@ -1,6 +1,6 @@
 # **Aplicação de Console de Carteira de Investimentos**
 
-Primeiramente, obrigado por topar este desafio. Desejamos que seja um processo de aprendizado para você.
+Primeiramente, obrigado por topar este desafio. Desejamos que seja um processo de aprendizado para você!
 
 ### **Contexto**
 
