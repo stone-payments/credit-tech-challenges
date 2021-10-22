@@ -24,11 +24,11 @@ Essa aplicação deverá suportar as operações descritas abaixo:
 
     Semelhante a um extrato bancário, esse comando deverá exibir uma lista de ativos investidos, informando código, preço de cada unidade do ativo, valor total alocado no ativo e data de compra.
 
-1. **Informar a venda de um ativo**
+3. **Informar a venda de um ativo**
 
     Esse comando servirá para informar a venda de um ativo. O usuário irá informar o código do ativo e quantas unidades ele vendeu. O usuário não deve conseguir vender ativos que não existem na carteira.
 
-1. **Visualizar um resumo do valor total investido em todos os ativos e também o valor investido em cada ativo**
+4. **Visualizar um resumo do valor total investido em todos os ativos e também o valor investido em cada ativo**
 
     Comando que deve exibir um resumo da carteira de investimentos do usuário. O objetivo é mostrar o valor total da carteira e o valor total alocado por ativos.
 
