@@ -26,7 +26,7 @@ A API deve expor dois endpoints:
 2 - Permite a consulta dos comentários salvos de maneira paginada, permitindo filtro pelo autor do comentário. 
 
 
-### POST `/comment
+### POST /comment
 
 Ao receber um comentário, o endpoint deve validar se os campos foram devidamente preenchidos. 
 Caso algum campo esteja vazio o endpoint retorna status 400 (BadRequest) informando quais campos estão inválidos.
