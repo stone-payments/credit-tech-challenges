@@ -7,7 +7,7 @@
 
 ![StoneSDK](https://cloud.githubusercontent.com/assets/2567823/11539067/6300c838-990c-11e5-9831-4f8ce691859e.png)
 
-# Desafio Backend
+# Desafio Backend: WebAPI Async com Docker
 
 O desafio consiste em criar uma API REST que permite salvar e ler comentários (similar a posts em um blog).
 
@@ -57,7 +57,8 @@ Esse método da API deve retornar o seguinte JSON
 	"items": [
 		{
 			"content": "Meu comentário",
-			"author": "Pedro"     
+			"author": "Pedro" 
+			"timestamp": "2023-04-05T10:00:09Z"	
 		}
 	],
     page_number: 1,
