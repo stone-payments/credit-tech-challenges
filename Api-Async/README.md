@@ -50,7 +50,7 @@ Esse processo pode ser executado pela própria WebAPI ou em um outro projeto de 
 
 
 
-### GET `/comments?page_size=10&author=Pedro&page_number=1
+### GET /comments?page_size=10&author=Pedro&page_number=1
 Esse método da API deve retornar o seguinte JSON
 ```json
 {
